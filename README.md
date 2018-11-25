@@ -18,13 +18,13 @@ Optimized and computationally efficient algorithms were not our intention and we
 ## Algorithms
 * Supervised
   * Classification 
-      * Logistic Regression
+      * Logistic Regression [Github](./supervised/classification/Logistic_Regression.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/classification/Logistic_Regression.ipynb)
       * Linear Discriminant Analysis 
       * Decision Tree Classifier
       * Ransom Forest Classifier
       * Gradient Boosting Classifier
   * Regression
-      * Linear Regression [Github](./supervised/classification/Logistic_Regression.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/classification/Logistic_Regression.ipynb)
+      * Linear Regression [Github](./supervised/regression/Linear_Regression.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/regression/Linear_Regression.ipynb)
       * Ridge Regression
       * Lasso Regression
 * Unsupervised
