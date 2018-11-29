@@ -40,22 +40,33 @@ In order to successfully following `Jupyter` notebooks, we assume that you have 
   * Classification 
       * Logistic Regression [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/classification/Logistic_Regression.ipynb)
       * Linear Discriminant Analysis 
-      * Decision Tree Classifier
+      * Decision Tree Classifier [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/classification/Classification_Tree.ipynb)
       * Ransom Forest Classifier
       * Gradient Boosting Classifier
   * Regression
       * Linear Regression [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/regression/Linear_Regression.ipynb)
       * Ridge Regression
       * Lasso Regression
+      * Decision Tree Regression [nbviewer](https://nbviewer.jupyter.org/github/upul/Machine-Learning-Algorithms-From-Scratch/blob/master/supervised/regression/Decision_Tree_Regression.ipynb)
 * Unsupervised
     * Clustering
         * K-Means
         * Gaussian Mixture
 
 ### :open_file_folder: Resources
-#### :books: Text Books
+- #### :books: Text Books
 
-Following books were immensely helpful when we were preparing these `Jupyter` notebooks. We believe these books should be available on every Machine Learning/Data Science practitioner's bookshelves. 
+Following books were immensely helpful when we were preparing these `Jupyter` notebooks. We believe these books should be available on every Machine Learning/Data Science practitioner's bookshelves.
 
-#### :movie_camera: MOOCs and Videos
+<p float="left">
+  <img src="images/bishop.jpg" width="100px" height="120px"/>
+  <img src="images/simon.jpg"  width="100px" height="120px"/> 
+  <img src="images/kevin.jpg"  width="100px" height="120px"/>
+  <img src="images/james.jpg"  width="100px" height="120px"/>
+</p>
+
+- #### :movie_camera: MOOCs and Videos
 Following MOOCs and Youtube playlists are simply amazing. If you want to broaden your Machine Learning knowledge I'm pretty sure those MOOCs and videos will be really helpful.
+
+- [Machine Learning - UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6) A graduate level machine learning course taught by prof: Nando de Freitas
+- [Foundations of Machine Learning - Bloomberg](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI) Really advanced introduction to machine learning taught by prof: David S. Rosenberg
